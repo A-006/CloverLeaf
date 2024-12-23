@@ -1,0 +1,534 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.12.16)  23 DEC 2024 16:59
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/ubuntu/github/learn/homework/CloverLeaf/latex/homework.tex
+(/home/ubuntu/github/learn/homework/CloverLeaf/latex/homework.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texmf/tex/latex/CJK/CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/share/texmf/tex/latex/CJK/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+ (/usr/share/texmf/tex/latex/CJK/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+) (/usr/share/texmf/tex/latex/CJK/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box50
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+\lst@mode=\count193
+\lst@gtempboxa=\box51
+\lst@token=\toks19
+\lst@length=\count194
+\lst@currlwidth=\dimen139
+\lst@column=\count195
+\lst@pos=\count196
+\lst@lostspace=\dimen140
+\lst@width=\dimen141
+\lst@newlines=\count197
+\lst@lineno=\count198
+\lst@maxwidth=\dimen142
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count199
+\lst@skipnumbers=\count266
+\lst@framebox=\box52
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count267
+\float@exts=\toks20
+\float@box=\box53
+\@float@everytoks=\toks21
+\@floatcapt=\box54
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box55
+) (./homework.aux
+
+LaTeX Warning: Label `table:combinations' multiply defined.
+
+
+LaTeX Warning: Label `table:combinations' multiply defined.
+
+
+LaTeX Warning: Label `table:combinations' multiply defined.
+
+
+LaTeX Warning: Label `table:combinations' multiply defined.
+
+)
+\openout1 = `homework.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+\c@lstlisting=\count269
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen145
+\scratchbox=\box56
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen146
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+) (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+) (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Trying to load font information for C70+gbsn on input line 13.
+ (/usr/share/texmf/tex/latex/CJK/UTF8/c70gbsn.fd
+File: c70gbsn.fd 2008/10/03 4.8.1
+) (/usr/share/texmf/tex/latex/CJK/UTF8/c70gbsn.fdx
+File: c70gbsn.fdx 2012/05/07 4.8.3
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+Overfull \hbox (27.00378pt too wide) in paragraph at lines 20--21
+[][][][][][][][][][][][][][][][] 
+ []
+
+<./serial2.png, id=26, 918.43124pt x 297.11pt>
+File: ./serial2.png Graphic file (type png)
+<use ./serial2.png>
+Package pdftex.def Info: ./serial2.png  used on input line 25.
+(pdftex.def)             Requested size: 276.00105pt x 89.28328pt.
+<./serial1.png, id=28, 1112.155pt x 274.02374pt>
+File: ./serial1.png Graphic file (type png)
+<use ./serial1.png>
+Package pdftex.def Info: ./serial1.png  used on input line 32.
+(pdftex.def)             Requested size: 276.00105pt x 68.00401pt.
+
+Overfull \hbox (19.12419pt too wide) in paragraph at lines 36--38
+[]\OT1/cmr/m/n/10 2.MPI \C70/gbsn/m/n/10/72 H \C70/gbsn/m/n/10/67 , \C70/gbsn/m/n/10/76 „\OT1/cmr/m/n/10 CloverLeaf \C70/gbsn/m/n/10/54 ^^L \C70/gbsn/m/n/10/74 ^^F \C70/gbsn/m/n/10/ff ^^L \C70/gbsn/m/n/10/89 Â \C70/gbsn/m/n/10/5b ß\OT1/cmr/m/n/10 README.MD\C70/gbsn/m/n/10/65 ‡ \C70/gbsn/m/n/10/4e ö\OT1/cmr/m/n/10 ,\C70/gbsn/m/n/10/75 1 \C70/gbsn/m/n/10/4e Ž \C70/gbsn/m/n/10/62 ^^Q \C70/gbsn/m/n/10/4f ^^? \C70/gbsn/m/n/10/75 ( \C70/gbsn/m/n/10/76 „ \C70/gbsn/m/n/10/66 /\OT1/cmr/m/n/10 GNU\C70/gbsn/m/n/10/7f ^^V
+ []
+
+
+Overfull \hbox (99.00452pt too wide) in paragraph at lines 39--40
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+<./MPI1.png, id=34, 911.405pt x 424.58624pt>
+File: ./MPI1.png Graphic file (type png)
+<use ./MPI1.png>
+Package pdftex.def Info: ./MPI1.png  used on input line 44.
+(pdftex.def)             Requested size: 276.00105pt x 128.5754pt.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./serial2.png> <./serial1.png>]
+<./MPI2.png, id=74, 884.30376pt x 352.31625pt>
+File: ./MPI2.png Graphic file (type png)
+<use ./MPI2.png>
+Package pdftex.def Info: ./MPI2.png  used on input line 51.
+(pdftex.def)             Requested size: 276.00105pt x 109.96416pt.
+
+Overfull \hbox (123.00476pt too wide) in paragraph at lines 59--60
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+<./OPENMP1.png, id=77, 916.42375pt x 456.70625pt>
+File: ./OPENMP1.png Graphic file (type png)
+<use ./OPENMP1.png>
+Package pdftex.def Info: ./OPENMP1.png  used on input line 65.
+(pdftex.def)             Requested size: 276.00105pt x 137.54256pt.
+[2 <./MPI1.png> <./MPI2.png>]
+<./OPENMP2.png, id=84, 911.405pt x 452.69125pt>
+File: ./OPENMP2.png Graphic file (type png)
+<use ./OPENMP2.png>
+Package pdftex.def Info: ./OPENMP2.png  used on input line 72.
+(pdftex.def)             Requested size: 276.00105pt x 137.0863pt.
+<./OPENMP3.png, id=85, 929.4725pt x 241.90375pt>
+File: ./OPENMP3.png Graphic file (type png)
+<use ./OPENMP3.png>
+Package pdftex.def Info: ./OPENMP3.png  used on input line 79.
+(pdftex.def)             Requested size: 276.00105pt x 71.82976pt.
+
+Overfull \hbox (123.00476pt too wide) in paragraph at lines 86--87
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[3 <./OPENMP1.png> <./OPENMP2.png> <./OPENMP3.png>]
+<./ref1.png, id=100, 923.45pt x 242.9075pt>
+File: ./ref1.png Graphic file (type png)
+<use ./ref1.png>
+Package pdftex.def Info: ./ref1.png  used on input line 94.
+(pdftex.def)             Requested size: 276.00105pt x 72.59853pt.
+<./call1.png, id=106, 664.4825pt x 738.76pt>
+File: ./call1.png Graphic file (type png)
+<use ./call1.png>
+Package pdftex.def Info: ./call1.png  used on input line 106.
+(pdftex.def)             Requested size: 276.00105pt x 306.85022pt.
+ [4 <./ref1.png>]
+<./call2.png, id=122, 794.97pt x 698.61pt>
+File: ./call2.png Graphic file (type png)
+<use ./call2.png>
+Package pdftex.def Info: ./call2.png  used on input line 113.
+(pdftex.def)             Requested size: 276.00105pt x 242.54507pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--115
+
+ []
+
+[5 <./call1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
+
+ []
+
+<./call3.png, id=133, 666.49pt x 316.18124pt>
+File: ./call3.png Graphic file (type png)
+<use ./call3.png>
+Package pdftex.def Info: ./call3.png  used on input line 124.
+(pdftex.def)             Requested size: 276.00105pt x 130.93776pt.
+<./call4.png, id=134, 664.4825pt x 717.68124pt>
+File: ./call4.png Graphic file (type png)
+<use ./call4.png>
+Package pdftex.def Info: ./call4.png  used on input line 130.
+(pdftex.def)             Requested size: 276.00105pt x 298.09499pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--132
+
+ []
+
+[6 <./call2.png> <./call3.png>]
+<./call5.png, id=140, 1691.31876pt x 470.75874pt>
+File: ./call5.png Graphic file (type png)
+<use ./call5.png>
+Package pdftex.def Info: ./call5.png  used on input line 136.
+(pdftex.def)             Requested size: 276.00105pt x 76.81703pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
+
+ []
+
+<./call6.png, id=142, 1035.87pt x 694.595pt>
+File: ./call6.png Graphic file (type png)
+<use ./call6.png>
+Package pdftex.def Info: ./call6.png  used on input line 141.
+(pdftex.def)             Requested size: 276.00105pt x 185.07367pt.
+[7 <./call4.png> <./call5.png>]
+<./call7.png, id=150, 1359.0775pt x 299.1175pt>
+File: ./call7.png Graphic file (type png)
+<use ./call7.png>
+Package pdftex.def Info: ./call7.png  used on input line 151.
+(pdftex.def)             Requested size: 276.00105pt x 60.74438pt.
+<./call8.png, id=151, 1368.11125pt x 713.66624pt>
+File: ./call8.png Graphic file (type png)
+<use ./call8.png>
+Package pdftex.def Info: ./call8.png  used on input line 157.
+(pdftex.def)             Requested size: 276.00105pt x 143.97214pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--159
+
+ []
+
+[8 <./call6.png> <./call7.png>]
+<./call9.png, id=162, 997.7275pt x 1253.68375pt>
+File: ./call9.png Graphic file (type png)
+<use ./call9.png>
+Package pdftex.def Info: ./call9.png  used on input line 165.
+(pdftex.def)             Requested size: 276.00105pt x 346.8014pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--167
+
+ []
+
+[9 <./call8.png>]
+File: ./call9.png Graphic file (type png)
+<use ./call9.png>
+Package pdftex.def Info: ./call9.png  used on input line 175.
+(pdftex.def)             Requested size: 276.00105pt x 346.8014pt.
+<./call10.png, id=172, 1005.7575pt x 283.0575pt>
+File: ./call10.png Graphic file (type png)
+<use ./call10.png>
+Package pdftex.def Info: ./call10.png  used on input line 180.
+(pdftex.def)             Requested size: 276.00105pt x 77.67476pt.
+ [10 <./call9.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 188.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 188.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./call10.png>] [12]
+<./compile.png, id=182, 592.2125pt x 197.73875pt>
+File: ./compile.png Graphic file (type png)
+<use ./compile.png>
+Package pdftex.def Info: ./compile.png  used on input line 290.
+(pdftex.def)             Requested size: 276.00105pt x 92.15877pt.
+<./compile5.png, id=183, 1495.5875pt x 230.8625pt>
+File: ./compile5.png Graphic file (type png)
+<use ./compile5.png>
+Package pdftex.def Info: ./compile5.png  used on input line 296.
+(pdftex.def)             Requested size: 276.00105pt x 42.60321pt.
+File: ./compile.png Graphic file (type png)
+<use ./compile.png>
+Package pdftex.def Info: ./compile.png  used on input line 302.
+(pdftex.def)             Requested size: 276.00105pt x 92.15877pt.
+<./compile2.png, id=186, 663.47874pt x 221.82875pt>
+File: ./compile2.png Graphic file (type png)
+<use ./compile2.png>
+Package pdftex.def Info: ./compile2.png  used on input line 308.
+(pdftex.def)             Requested size: 276.00105pt x 92.27722pt.
+ [13 <./compile.png> <./compile5.png>]
+<./com.png, id=191, 658.46pt x 349.305pt>
+File: ./com.png Graphic file (type png)
+<use ./com.png>
+Package pdftex.def Info: ./com.png  used on input line 314.
+(pdftex.def)             Requested size: 276.00105pt x 146.41927pt.
+<./compile4.png, id=192, 662.475pt x 207.77625pt>
+File: ./compile4.png Graphic file (type png)
+<use ./compile4.png>
+Package pdftex.def Info: ./compile4.png  used on input line 315.
+(pdftex.def)             Requested size: 276.00105pt x 86.56158pt.
+
+Overfull \hbox (123.00476pt too wide) in paragraph at lines 320--321
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+<./compile6.png, id=193, 2288.55pt x 460.72125pt>
+File: ./compile6.png Graphic file (type png)
+<use ./compile6.png>
+Package pdftex.def Info: ./compile6.png  used on input line 325.
+(pdftex.def)             Requested size: 276.00105pt x 55.55833pt.
+[14 <./compile2.png> <./com.png> <./compile4.png>]
+<./compile8.png, id=199, 1879.02pt x 202.7575pt>
+File: ./compile8.png Graphic file (type png)
+<use ./compile8.png>
+Package pdftex.def Info: ./compile8.png  used on input line 331.
+(pdftex.def)             Requested size: 276.00105pt x 29.78116pt.
+ [15 <./compile6.png> <./compile8.png>] (./homework.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5523 strings out of 478287
+ 76606 string characters out of 5849288
+ 563311 words of memory out of 5000000
+ 23470 multiletter control sequences out of 15000+600000
+ 497356 words of font info for 126 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,10n,64p,294b,1835s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu30.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu4e.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu4f.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu50.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu51.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu52.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu53.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu54.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu56.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu57.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu59.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu5b.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu5c.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu5d.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu5e.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu5f.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu60.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu62.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu63.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu64.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu65.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu66.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu67.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu68.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu6a.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu6b.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu6c.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu6d.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu6e.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu70.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu71.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu72.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu73.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu74.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu75.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu76.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu77.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu78.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu79.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7a.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7b.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7c.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7e.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7f.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu80.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu81.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu82.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu83.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu88.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu89.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu8b.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu8c.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu8d.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu8f.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu90.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu91.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu94.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu95.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu96.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu97.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu98.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu9a.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnuff.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on homework.pdf (15 pages, 2177486 bytes).
+PDF statistics:
+ 479 PDF objects out of 1000 (max. 8388607)
+ 237 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 378 words of extra memory for PDF output out of 10000 (max. 10000000)
+
